@@ -22,7 +22,13 @@ angular.module('conFusion', ['ionic', 'conFusion.controllers', 'conFusion.servic
   });
 })
 
-.config(function($stateProvider, $urlRouterProvider) {
+.config(function($stateProvider, $urlRouterProvider, $ionicConfigProvider) {
+
+  // FIXES SCROLLBAR IN ANDROID VERSION
+  //if (ionic.Platform.isAndroid()) {
+  //  $ionicConfigProvider.scrolling.jsScrolling(true);
+  //}
+
   $stateProvider
 
     .state('app', {
