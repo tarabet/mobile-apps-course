@@ -6,7 +6,7 @@
       "image": "images/uthapizza.png",
       "category": "mains",
       "label": "Hot",
-      "price": "4.99",
+      "price": 4.99,
       "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
       "comments": [
         {
@@ -38,6 +38,25 @@
           "comment": "It's your birthday, we're gonna party!",
           "author": "25 Cent",
           "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "2",
+          "comment": "SS",
+          "author": "",
+          "date": "2016-02-18T14:56:55.425Z",
+          "name": "SS"
+        },
+        {
+          "rating": "1",
+          "comment": "Tes1",
+          "author": "Tet1",
+          "date": "2016-02-18T14:58:07.576Z"
+        },
+        {
+          "rating": "3",
+          "comment": "2222",
+          "author": "2222",
+          "date": "2016-02-18T15:06:08.770Z"
         }
       ]
     },
@@ -47,7 +66,7 @@
       "image": "images/zucchipakoda.png",
       "category": "appetizer",
       "label": "",
-      "price": "1.99",
+      "price": 1.99,
       "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
       "comments": [
         {
@@ -79,6 +98,24 @@
           "comment": "It's your birthday, we're gonna party!",
           "author": "25 Cent",
           "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "4",
+          "comment": "111",
+          "author": "111",
+          "date": "2016-02-18T15:03:38.105Z"
+        },
+        {
+          "rating": "3",
+          "comment": "111",
+          "author": "111",
+          "date": "2016-02-18T15:18:22.087Z"
+        },
+        {
+          "rating": "2",
+          "comment": "22222",
+          "author": "22222",
+          "date": "2016-02-18T15:19:29.652Z"
         }
       ]
     },
@@ -88,7 +125,7 @@
       "image": "images/vadonut.png",
       "category": "appetizer",
       "label": "New",
-      "price": "1.99",
+      "price": 1.99,
       "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
       "comments": [
         {
@@ -120,6 +157,13 @@
           "comment": "It's your birthday, we're gonna party!",
           "author": "25 Cent",
           "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": "4",
+          "comment": "This dish is SO SO",
+          "author": "",
+          "date": "2016-02-18T14:49:43.117Z",
+          "name": "Test Name"
         }
       ]
     },
