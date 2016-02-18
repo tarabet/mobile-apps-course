@@ -226,6 +226,7 @@ angular.module('conFusion.controllers', [])
       );
   }])
 
+  // DishCommentController is not currently used;
   .controller('DishCommentController', ['$scope', 'menuFactory', function($scope,menuFactory) {
 
     $scope.mycomment = {rating:5, comment:"", author:"", date:""};
